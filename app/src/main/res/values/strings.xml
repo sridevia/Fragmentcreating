@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragmentcreating</string>
+    <string-array name="skills">
+        <item>c</item>
+        <item>c++</item>
+        <item>java</item>
+        <item>android</item>
+        </string-array>
+</resources>
