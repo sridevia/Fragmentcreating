@@ -5,6 +5,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+/*
+File name MainActivity.Java
+*/
 public class MainActivity extends AppCompatActivity {
 
     @Override
